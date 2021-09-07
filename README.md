@@ -3,7 +3,7 @@
   
 # Teste de Performance | Jmeter 🦋
   
-Utilizando o Jmeter para realizar vários testes de performance de um E-Comerce.
+Utilizando o Jmeter para realizar vários testes de performance de um E-Commerce.
   
 </div>
   
