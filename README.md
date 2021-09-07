@@ -1,2 +1,8 @@
-# Teste_de_Performance
-Utilizando o Jmeter para realizar o teste de performance de um E-Comerce.
+
+<div align="center">
+  
+# Teste de Performance | Jmeter 🦋
+  
+</div>
+  
+Utilizando o Jmeter para realizar vários testes de performance de um E-Comerce.
