@@ -85,7 +85,7 @@ Objetivo 🎯  &nbsp;&nbsp;Simulação de carga gradativa buscando alcançar o m
 
 ##
 
-![testplan](https://user-images.githubusercontent.com/990877/132543870-f282d136-a9a8-4699-b6dc-15a62dacb323.png)
+![planodeteste](https://user-images.githubusercontent.com/990877/132600760-3912d9f6-87f7-4e59-8e01-b68c8e5f2ab1.png)
 
 
 ## Relatórios
