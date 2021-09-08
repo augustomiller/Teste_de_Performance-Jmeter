@@ -49,6 +49,11 @@ Objetivo 🎯  &nbsp;&nbsp;Simulação de carga gradativa buscando alcançar o m
 
 ## Top Plugins
 
+- [Manager](https://jmeter-plugins.org/?search=jpgc-plugins-manager)
+- [Custom Thread Groups](https://jmeter-plugins.org/?search=jpgc-casutg)
+- [Basic Graphs](https://jmeter-plugins.org/?search=jpgc-graphs-basic)
+- [PerfMon (Servers Performance Monitoring)](https://jmeter-plugins.org/?search=jpgc-perfmon)
+
 ## Plano de teste
 
 - [x] <img src="https://img.shields.io/badge/objetivos-%F0%9F%8E%AF-success">
@@ -77,6 +82,11 @@ Objetivo 🎯  &nbsp;&nbsp;Simulação de carga gradativa buscando alcançar o m
 
 - [ ] <img src="https://img.shields.io/badge/configura%C3%A7%C3%B5es-%E2%9A%99%EF%B8%8F-success">
    * Entre um passo e outro adicinar um "think time" de 10 a 30 segundos.
+
+##
+
+![testplan](https://user-images.githubusercontent.com/990877/132543870-f282d136-a9a8-4699-b6dc-15a62dacb323.png)
+
 
 ## Relatórios
 
