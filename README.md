@@ -34,6 +34,9 @@ Utilizando o Jmeter para realizar vários testes de performance de um E-Commerce
 
 ## Documentação
 
+- [Docuentação Jmeter](https://jmeter.apache.org/usermanual/get-started.html)
+- [Docuentação Jmeter Plugin](https://jmeter-plugins.org/wiki/Start/)
+
 ## Tecnologias
 
 ## Top Plugins
