@@ -45,6 +45,7 @@ Objetivo 🎯  &nbsp;&nbsp;Simulação de carga gradativa buscando alcançar o m
 - [Jmeter](https://jmeter.apache.org/download_jmeter.cgi)
 - [Bash](https://www.gnu.org/software/bash/)
 - [VSCode](https://code.visualstudio.com/)
+- [Projeto](http://automationpractice.com/index.php)
 
 ## Top Plugins
 
