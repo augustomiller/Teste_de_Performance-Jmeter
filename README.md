@@ -41,6 +41,11 @@ Objetivo 🎯  &nbsp;&nbsp;Simulação de carga gradativa buscando alcançar o m
 
 ## Tecnologias
 
+- [Java](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+- [Jmeter](https://jmeter.apache.org/download_jmeter.cgi)
+- [Bash](https://www.gnu.org/software/bash/)
+- [VSCode](https://code.visualstudio.com/)
+
 ## Top Plugins
 
 ## Plano de teste
