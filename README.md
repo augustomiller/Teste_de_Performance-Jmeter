@@ -5,6 +5,8 @@
   
 Utilizando o Jmeter para realizar vários testes de performance de um E-Commerce.
   
+Objetivo 🎯  &nbsp;&nbsp;Simulação de carga gradativa buscando alcançar o momento de degradação da infraestrutura, possibilitando assim a identificação de gargalos
+  
 </div>
   
   <p align="center">
@@ -42,6 +44,8 @@ Utilizando o Jmeter para realizar vários testes de performance de um E-Commerce
 ## Top Plugins
 
 ## Plano de teste
+
+- [x] Objetivo:simulação de carga gradativa buscando alcançar o momento de degradação da infraestrutura, possibilitando assim a identificação de gargalos.
 
 ## Relatórios
 
