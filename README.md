@@ -114,6 +114,19 @@ Objetivo 🎯  &nbsp;&nbsp;Simulação de carga gradativa buscando alcançar o m
 
 ## Relatórios
 
+Comomando para gerar o relatório:
+
+```script
+sh ~/jmeter/bin/jmeter.sh -n -t e-commerce-project.jmx -l resultLogEcommerce.jtl -e -o ecommerceDashBoardResults
+```
+
+![Screen Shot 2021-09-08 at 22 20 53](https://user-images.githubusercontent.com/990877/132606794-62dd8644-296f-48fe-9ad5-bab907750ff7.png)
+![Screen Shot 2021-09-08 at 22 19 29](https://user-images.githubusercontent.com/990877/132606831-509ef487-6009-45c0-82aa-ef8040b3f3d2.png)
+![Screen Shot 2021-09-08 at 22 19 52](https://user-images.githubusercontent.com/990877/132606844-c6f487c6-8554-4b75-9506-86c627edb4b6.png)
+![Screen Shot 2021-09-08 at 22 20 09](https://user-images.githubusercontent.com/990877/132606850-72bc0a6f-a547-40ab-937f-024a5e024678.png)
+
+##
+
 ## License
 
 <div align="center">
