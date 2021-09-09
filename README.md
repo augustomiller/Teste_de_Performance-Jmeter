@@ -85,6 +85,25 @@ Objetivo 🎯  &nbsp;&nbsp;Simulação de carga gradativa buscando alcançar o m
 
 ##
 
+## Fluxo
+
+<a href=""><img src="https://img.shields.io/badge/step-01-9cf"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/step-02-9cf"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/step-03-9cf"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/step-04-9cf"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/step-05-9cf"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/step-06-9cf"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/step-07-9cf"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/step-08-9cf"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/step-09-9cf"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/step-10-9cf"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/step-11-9cf"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/step-12-9cf"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/step-13-9cf"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/step-14-9cf"></a>
+
+##
+
 ![planodeteste](https://user-images.githubusercontent.com/990877/132600760-3912d9f6-87f7-4e59-8e01-b68c8e5f2ab1.png)
 
 
