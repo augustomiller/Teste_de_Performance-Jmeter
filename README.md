@@ -88,6 +88,8 @@ Objetivo 🎯  &nbsp;&nbsp;Simulação de carga gradativa buscando alcançar o m
 
 ## Fluxo da navegação
 
+<div align="center">
+
 <a href="https://user-images.githubusercontent.com/990877/132601806-c4b48c5a-53f9-45fa-95be-b4e5fcc23f5e.png"><img src="https://img.shields.io/badge/step-01-9cf"></a>&nbsp;
 <a href="https://user-images.githubusercontent.com/990877/132601915-7fb3dfe8-8a77-444c-ba44-14c873ae4ec2.png"><img src="https://img.shields.io/badge/step-02-9cf"></a>&nbsp;
 <a href="https://user-images.githubusercontent.com/990877/132601984-00166f53-2ed4-49b4-9c0b-f36a3cd58af1.png"><img src="https://img.shields.io/badge/step-03-9cf"></a>&nbsp;
@@ -103,6 +105,8 @@ Objetivo 🎯  &nbsp;&nbsp;Simulação de carga gradativa buscando alcançar o m
 <a href="https://user-images.githubusercontent.com/990877/132602302-bbdfaefe-7a2d-4ae8-a0bb-83e35abe6f99.png"><img src="https://img.shields.io/badge/step-13-9cf"></a>&nbsp;
 <a href="https://user-images.githubusercontent.com/990877/132602331-031d916a-e31f-4b97-9021-721be4588537.png"><img src="https://img.shields.io/badge/step-14-9cf"></a>
 
+</div>
+  
 ##
 
 ![planodeteste](https://user-images.githubusercontent.com/990877/132600760-3912d9f6-87f7-4e59-8e01-b68c8e5f2ab1.png)
