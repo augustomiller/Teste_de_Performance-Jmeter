@@ -87,20 +87,20 @@ Objetivo 🎯  &nbsp;&nbsp;Simulação de carga gradativa buscando alcançar o m
 
 ## Fluxo
 
-<a href=""><img src="https://img.shields.io/badge/step-01-9cf"></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/step-02-9cf"></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/step-03-9cf"></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/step-04-9cf"></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/step-05-9cf"></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/step-06-9cf"></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/step-07-9cf"></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/step-08-9cf"></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/step-09-9cf"></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/step-10-9cf"></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/step-11-9cf"></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/step-12-9cf"></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/step-13-9cf"></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/step-14-9cf"></a>
+<a href="https://user-images.githubusercontent.com/990877/132601806-c4b48c5a-53f9-45fa-95be-b4e5fcc23f5e.png"><img src="https://img.shields.io/badge/step-01-9cf"></a>&nbsp;
+<a href="https://user-images.githubusercontent.com/990877/132601915-7fb3dfe8-8a77-444c-ba44-14c873ae4ec2.png"><img src="https://img.shields.io/badge/step-02-9cf"></a>&nbsp;
+<a href="https://user-images.githubusercontent.com/990877/132601984-00166f53-2ed4-49b4-9c0b-f36a3cd58af1.png"><img src="https://img.shields.io/badge/step-03-9cf"></a>&nbsp;
+<a href="https://user-images.githubusercontent.com/990877/132602009-41f790d1-75a8-48c0-ae13-774d1ceed30a.png"><img src="https://img.shields.io/badge/step-04-9cf"></a>&nbsp;
+<a href="https://user-images.githubusercontent.com/990877/132602047-488a2eef-b99f-4b11-80ae-9720652e6524.png"><img src="https://img.shields.io/badge/step-05-9cf"></a>&nbsp;
+<a href="https://user-images.githubusercontent.com/990877/132602101-e78d8a99-9ca9-47e1-99cf-7a9d92d52b86.png"><img src="https://img.shields.io/badge/step-06-9cf"></a>&nbsp;
+<a href="https://user-images.githubusercontent.com/990877/132602129-893961e1-539a-4908-97ec-86819ccd29e6.png"><img src="https://img.shields.io/badge/step-07-9cf"></a>&nbsp;
+<a href="https://user-images.githubusercontent.com/990877/132602160-b2698779-1f90-4ec2-9099-07ab9b919a94.png"><img src="https://img.shields.io/badge/step-08-9cf"></a>&nbsp;
+<a href="https://user-images.githubusercontent.com/990877/132602202-ca39f42e-8d10-4de0-a8bb-0e5484d47d0c.png"><img src="https://img.shields.io/badge/step-09-9cf"></a>&nbsp;
+<a href="https://user-images.githubusercontent.com/990877/132602229-6c62cd50-cd68-4024-acf7-e6c5f8a73c8a.png"><img src="https://img.shields.io/badge/step-10-9cf"></a>&nbsp;
+<a href="https://user-images.githubusercontent.com/990877/132602259-d372dac7-aed0-4539-a7d7-6903c171bb75.png"><img src="https://img.shields.io/badge/step-11-9cf"></a>&nbsp;
+<a href="https://user-images.githubusercontent.com/990877/132602281-4423bb87-8e15-4214-a11b-84c9dd3a9e61.png"><img src="https://img.shields.io/badge/step-12-9cf"></a>&nbsp;
+<a href="https://user-images.githubusercontent.com/990877/132602302-bbdfaefe-7a2d-4ae8-a0bb-83e35abe6f99.png"><img src="https://img.shields.io/badge/step-13-9cf"></a>&nbsp;
+<a href="https://user-images.githubusercontent.com/990877/132602331-031d916a-e31f-4b97-9021-721be4588537.png"><img src="https://img.shields.io/badge/step-14-9cf"></a>
 
 ##
 
