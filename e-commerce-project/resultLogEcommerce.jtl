@@ -1,0 +1,290 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1631150164857,1900,/index.php-131,200,OK,CN-001 | User Navigate 1-1,text,true,,82299,487,1,3,http://automationpractice.com/index.php,1649,0,338
+1631150164857,1950,/index.php-131,200,OK,CN-002 | Searcher User 2-1,text,true,,82291,487,1,3,http://automationpractice.com/index.php,1698,0,338
+1631150166761,86,/js/jquery/plugins/jquery.easing.js-134,200,OK,CN-001 | User Navigate 1-1,text,true,,5210,377,1,3,http://automationpractice.com/js/jquery/plugins/jquery.easing.js,86,0,0
+1631150166809,85,/js/jquery/plugins/jquery.easing.js-134,200,OK,CN-002 | Searcher User 2-1,text,true,,5210,377,1,3,http://automationpractice.com/js/jquery/plugins/jquery.easing.js,84,0,0
+1631150166849,92,/js/tools.js-135,200,OK,CN-001 | User Navigate 1-1,text,true,,17020,354,1,3,http://automationpractice.com/js/tools.js,91,0,0
+1631150166895,86,/js/tools.js-135,200,OK,CN-002 | Searcher User 2-1,text,true,,17020,354,1,3,http://automationpractice.com/js/tools.js,86,0,0
+1631150166942,171,/js/jquery/jquery-1.11.0.min.js-132,200,OK,CN-001 | User Navigate 1-1,text,true,,96637,373,1,3,http://automationpractice.com/js/jquery/jquery-1.11.0.min.js,84,0,0
+1631150166983,173,/js/jquery/jquery-1.11.0.min.js-132,200,OK,CN-002 | Searcher User 2-1,text,true,,96637,373,1,3,http://automationpractice.com/js/jquery/jquery-1.11.0.min.js,85,0,0
+1631150167115,84,/js/jquery/jquery-migrate-1.2.1.min.js-133,200,OK,CN-001 | User Navigate 1-1,text,true,,7454,380,1,3,http://automationpractice.com/js/jquery/jquery-migrate-1.2.1.min.js,84,0,0
+1631150167157,84,/js/jquery/jquery-migrate-1.2.1.min.js-133,200,OK,CN-002 | Searcher User 2-1,text,true,,7454,380,1,3,http://automationpractice.com/js/jquery/jquery-migrate-1.2.1.min.js,84,0,0
+1631150167201,92,/themes/default-bootstrap/js/global.js-136,200,OK,CN-001 | User Navigate 1-1,text,true,,14080,380,1,3,http://automationpractice.com/themes/default-bootstrap/js/global.js,92,0,0
+1631150167243,85,/themes/default-bootstrap/js/global.js-136,200,OK,CN-002 | Searcher User 2-1,text,true,,14080,380,1,3,http://automationpractice.com/themes/default-bootstrap/js/global.js,84,0,0
+1631150167293,86,/themes/default-bootstrap/js/products-comparison.js-140,200,OK,CN-001 | User Navigate 1-1,text,true,,4801,393,1,3,http://automationpractice.com/themes/default-bootstrap/js/products-comparison.js,86,0,0
+1631150167329,86,/themes/default-bootstrap/js/products-comparison.js-140,200,OK,CN-002 | Searcher User 2-1,text,true,,4801,393,1,3,http://automationpractice.com/themes/default-bootstrap/js/products-comparison.js,86,0,0
+1631150167380,88,/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js-138,200,OK,CN-001 | User Navigate 1-1,text,true,,31149,401,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js,86,0,0
+1631150167416,89,/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js-138,200,OK,CN-002 | Searcher User 2-1,text,true,,31149,401,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js,87,0,0
+1631150167469,86,/themes/default-bootstrap/js/autoload/10-bootstrap.min.js-137,200,OK,CN-001 | User Navigate 1-1,text,true,,27887,399,1,3,http://automationpractice.com/themes/default-bootstrap/js/autoload/10-bootstrap.min.js,84,0,0
+1631150167505,86,/themes/default-bootstrap/js/autoload/10-bootstrap.min.js-137,200,OK,CN-002 | Searcher User 2-1,text,true,,27887,399,1,3,http://automationpractice.com/themes/default-bootstrap/js/autoload/10-bootstrap.min.js,85,0,0
+1631150167556,85,/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js-142,200,OK,CN-001 | User Navigate 1-1,text,true,,2819,410,1,3,http://automationpractice.com/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js,85,0,0
+1631150167592,83,/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js-142,200,OK,CN-002 | Searcher User 2-1,text,true,,2819,410,1,3,http://automationpractice.com/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js,83,0,0
+1631150167642,90,/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js-139,200,OK,CN-001 | User Navigate 1-1,text,true,,36567,409,1,3,http://automationpractice.com/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js,86,0,0
+1631150167676,86,/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js-139,200,OK,CN-002 | Searcher User 2-1,text,true,,36567,409,1,3,http://automationpractice.com/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js,83,0,0
+1631150167732,84,/js/jquery/plugins/jquery.serialScroll.js-144,200,OK,CN-001 | User Navigate 1-1,text,true,,2268,383,1,3,http://automationpractice.com/js/jquery/plugins/jquery.serialScroll.js,84,0,0
+1631150167762,89,/js/jquery/plugins/jquery.serialScroll.js-144,200,OK,CN-002 | Searcher User 2-1,text,true,,2268,383,1,3,http://automationpractice.com/js/jquery/plugins/jquery.serialScroll.js,89,0,0
+1631150167816,88,/js/jquery/plugins/fancybox/jquery.fancybox.js-141,200,OK,CN-001 | User Navigate 1-1,text,true,,23391,388,1,3,http://automationpractice.com/js/jquery/plugins/fancybox/jquery.fancybox.js,87,0,0
+1631150167851,91,/js/jquery/plugins/fancybox/jquery.fancybox.js-141,200,OK,CN-002 | Searcher User 2-1,text,true,,23391,388,1,3,http://automationpractice.com/js/jquery/plugins/fancybox/jquery.fancybox.js,89,0,0
+1631150167905,144,/js/jquery/plugins/bxslider/jquery.bxslider.js-145,200,OK,CN-001 | User Navigate 1-1,text,true,,19379,388,1,3,http://automationpractice.com/js/jquery/plugins/bxslider/jquery.bxslider.js,144,0,0
+1631150167942,108,/js/jquery/plugins/bxslider/jquery.bxslider.js-145,200,OK,CN-002 | Searcher User 2-1,text,true,,19379,388,1,3,http://automationpractice.com/js/jquery/plugins/bxslider/jquery.bxslider.js,108,0,0
+1631150168051,87,/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js-148,200,OK,CN-002 | Searcher User 2-1,text,true,,1985,413,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js,85,0,0
+1631150168050,85,/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js-148,200,OK,CN-001 | User Navigate 1-1,text,true,,1985,413,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js,85,0,0
+1631150168138,92,/themes/default-bootstrap/js/tools/treeManagement.js-146,200,OK,CN-002 | Searcher User 2-1,text,true,,3216,394,1,3,http://automationpractice.com/themes/default-bootstrap/js/tools/treeManagement.js,92,0,0
+1631150168140,90,/themes/default-bootstrap/js/tools/treeManagement.js-146,200,OK,CN-001 | User Navigate 1-1,text,true,,3216,394,1,3,http://automationpractice.com/themes/default-bootstrap/js/tools/treeManagement.js,90,0,0
+1631150168230,84,/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js-149,200,OK,CN-002 | Searcher User 2-1,text,true,,3985,405,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js,84,0,0
+1631150168232,83,/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js-149,200,OK,CN-001 | User Navigate 1-1,text,true,,3985,405,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js,83,0,0
+1631150168315,84,/js/jquery/plugins/autocomplete/jquery.autocomplete.js-150,200,OK,CN-002 | Searcher User 2-1,text,true,,20206,396,1,3,http://automationpractice.com/js/jquery/plugins/autocomplete/jquery.autocomplete.js,83,0,0
+1631150168316,84,/js/jquery/plugins/autocomplete/jquery.autocomplete.js-150,200,OK,CN-001 | User Navigate 1-1,text,true,,20206,396,1,3,http://automationpractice.com/js/jquery/plugins/autocomplete/jquery.autocomplete.js,82,0,0
+1631150168400,82,/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js-151,200,OK,CN-002 | Searcher User 2-1,text,true,,2175,406,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js,82,0,0
+1631150168401,82,/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js-151,200,OK,CN-001 | User Navigate 1-1,text,true,,2175,406,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js,81,0,0
+1631150168483,83,/js/jquery/plugins/jquery.scrollTo.js-143,200,OK,CN-001 | User Navigate 1-1,text,true,,2857,379,1,3,http://automationpractice.com/js/jquery/plugins/jquery.scrollTo.js,83,0,0
+1631150168483,150,/js/jquery/plugins/jquery.scrollTo.js-143,200,OK,CN-002 | Searcher User 2-1,text,true,,2857,379,1,3,http://automationpractice.com/js/jquery/plugins/jquery.scrollTo.js,150,0,0
+1631150168567,82,/modules/blockfacebook/blockfacebook.js-147,200,OK,CN-001 | User Navigate 1-1,text,true,,1575,381,1,3,http://automationpractice.com/modules/blockfacebook/blockfacebook.js,82,0,0
+1631150168634,82,/modules/blockfacebook/blockfacebook.js-147,200,OK,CN-002 | Searcher User 2-1,text,true,,1575,381,1,3,http://automationpractice.com/modules/blockfacebook/blockfacebook.js,82,0,0
+1631150168650,84,/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js-152,200,OK,CN-001 | User Navigate 1-1,text,true,,10225,412,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js,83,0,0
+1631150168717,83,/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js-152,200,OK,CN-002 | Searcher User 2-1,text,true,,10225,412,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js,83,0,0
+1631150168735,83,/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js-153,200,OK,CN-001 | User Navigate 1-1,text,true,,5193,409,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js,83,0,0
+1631150168801,83,/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js-153,200,OK,CN-002 | Searcher User 2-1,text,true,,5193,409,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js,83,0,0
+1631150168818,83,/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js-154,200,OK,CN-001 | User Navigate 1-1,text,true,,7238,416,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js,83,0,0
+1631150168885,84,/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js-154,200,OK,CN-002 | Searcher User 2-1,text,true,,7238,416,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js,84,0,0
+1631150168902,81,/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js-155,200,OK,CN-001 | User Navigate 1-1,text,true,,4089,410,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js,81,0,0
+1631150168969,86,/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js-155,200,OK,CN-002 | Searcher User 2-1,text,true,,4089,410,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js,86,0,0
+1631150168984,87,/themes/default-bootstrap/js/index.js-156,200,OK,CN-001 | User Navigate 1-1,text,true,,1366,379,1,3,http://automationpractice.com/themes/default-bootstrap/js/index.js,87,0,0
+1631150169056,89,/themes/default-bootstrap/js/index.js-156,200,OK,CN-002 | Searcher User 2-1,text,true,,1366,379,1,3,http://automationpractice.com/themes/default-bootstrap/js/index.js,89,0,0
+1631150169072,84,/img/logo.jpg-158,200,OK,CN-001 | User Navigate 1-1,bin,true,,11810,366,1,3,http://automationpractice.com/img/logo.jpg,83,0,0
+1631150169146,86,/img/logo.jpg-158,200,OK,CN-002 | Searcher User 2-1,bin,true,,11810,366,1,3,http://automationpractice.com/img/logo.jpg,85,0,0
+1631150169156,83,/modules/blockbanner/img/sale70.png-157,200,OK,CN-001 | User Navigate 1-1,bin,true,,13455,388,1,3,http://automationpractice.com/modules/blockbanner/img/sale70.png,82,0,0
+1631150169233,84,/modules/blockbanner/img/sale70.png-157,200,OK,CN-002 | Searcher User 2-1,bin,true,,13455,388,1,3,http://automationpractice.com/modules/blockbanner/img/sale70.png,83,0,0
+1631150169240,83,/img/c/3-0_thumb.jpg-159,200,OK,CN-001 | User Navigate 1-1,bin,true,,13538,373,1,3,http://automationpractice.com/img/c/3-0_thumb.jpg,82,0,0
+1631150169318,84,/img/c/3-0_thumb.jpg-159,200,OK,CN-002 | Searcher User 2-1,bin,true,,13538,373,1,3,http://automationpractice.com/img/c/3-0_thumb.jpg,84,0,0
+1631150169323,82,/img/c/3-1_thumb.jpg-160,200,OK,CN-001 | User Navigate 1-1,bin,true,,10416,373,1,3,http://automationpractice.com/img/c/3-1_thumb.jpg,82,0,0
+1631150169403,88,/img/c/3-1_thumb.jpg-160,200,OK,CN-002 | Searcher User 2-1,bin,true,,10416,373,1,3,http://automationpractice.com/img/c/3-1_thumb.jpg,87,0,0
+1631150169406,90,/modules/homeslider/images/sample-3.jpg-162,200,OK,CN-001 | User Navigate 1-1,bin,true,,59488,392,1,3,http://automationpractice.com/modules/homeslider/images/sample-3.jpg,85,0,0
+1631150164859,4709,/-78,200,OK,CN-003 | Buyer User 3-1,text,true,,1317439,53323,1,3,http://automationpractice.com/index.php,1258,0,336
+1631150164859,1258,/-78-0,302,Moved,CN-003 | Buyer User 3-1,text,true,,306,418,1,3,http://automationpractice.com/,1258,0,336
+1631150166121,1123,/-78-1,200,OK,CN-003 | Buyer User 3-1,text,true,,82256,427,1,3,http://automationpractice.com/index.php,882,0,0
+1631150167492,169,/-78-2,200,OK,CN-003 | Buyer User 3-1,bin,true,,3275,690,1,3,http://automationpractice.com/img/favicon.ico?1461205423,169,0,85
+1631150167492,580,/-78-3,200,OK,CN-003 | Buyer User 3-1,text,true,,210895,703,1,3,http://automationpractice.com/themes/default-bootstrap/css/global.css,172,0,85
+1631150167493,171,/-78-4,200,OK,CN-003 | Buyer User 3-1,text,true,,607,713,1,3,http://automationpractice.com/themes/default-bootstrap/css/autoload/highdpi.css,171,0,84
+1631150167494,170,/-78-5,200,OK,CN-003 | Buyer User 3-1,text,true,,1701,723,1,3,http://automationpractice.com/themes/default-bootstrap/css/autoload/responsive-tables.css,170,0,84
+1631150167492,169,/-78-6,200,OK,CN-003 | Buyer User 3-1,text,true,,12503,721,1,3,http://automationpractice.com/themes/default-bootstrap/css/autoload/uniform.default.css,168,0,84
+1631150167492,90,/-78-7,200,OK,CN-003 | Buyer User 3-1,text,true,,5136,710,1,3,http://automationpractice.com/js/jquery/plugins/fancybox/jquery.fancybox.css,90,0,0
+1631150167666,86,/-78-8,200,OK,CN-003 | Buyer User 3-1,text,true,,438,728,1,3,http://automationpractice.com/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css,85,0,0
+1631150168053,164,/-78-9,200,OK,CN-003 | Buyer User 3-1,text,true,,16503,709,1,3,http://automationpractice.com/themes/default-bootstrap/css/product_list.css,88,0,0
+1631150168080,111,/-78-10,200,OK,CN-003 | Buyer User 3-1,text,true,,14568,724,1,3,http://automationpractice.com/themes/default-bootstrap/css/modules/blockcart/blockcart.css,110,0,0
+1631150168096,94,/-78-11,200,OK,CN-003 | Buyer User 3-1,text,true,,3000,736,1,3,http://automationpractice.com/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css,94,0,0
+1631150168141,90,/-78-12,200,OK,CN-003 | Buyer User 3-1,text,true,,2116,736,1,3,http://automationpractice.com/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css,90,0,0
+1631150168142,88,/-78-13,200,OK,CN-003 | Buyer User 3-1,text,true,,281,707,1,3,http://automationpractice.com/modules/blockfacebook/css/blockfacebook.css,88,0,0
+1631150168218,95,/-78-14,200,OK,CN-003 | Buyer User 3-1,text,true,,1984,734,1,3,http://automationpractice.com/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css,95,0,0
+1631150168235,85,/-78-15,200,OK,CN-003 | Buyer User 3-1,text,true,,1564,730,1,3,http://automationpractice.com/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css,85,0,0
+1631150168272,99,/-78-16,200,OK,CN-003 | Buyer User 3-1,text,true,,3192,736,1,3,http://automationpractice.com/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css,99,0,0
+1631150168283,89,/-78-17,200,OK,CN-003 | Buyer User 3-1,text,true,,1062,718,1,3,http://automationpractice.com/js/jquery/plugins/autocomplete/jquery.autocomplete.css,89,0,0
+1631150168303,84,/-78-18,200,OK,CN-003 | Buyer User 3-1,text,true,,1860,728,1,3,http://automationpractice.com/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css,84,0,0
+1631150168321,82,/-78-19,200,OK,CN-003 | Buyer User 3-1,text,true,,615,724,1,3,http://automationpractice.com/themes/default-bootstrap/css/modules/blocktags/blocktags.css,82,0,0
+1631150168326,83,/-78-20,200,OK,CN-003 | Buyer User 3-1,text,true,,687,732,1,3,http://automationpractice.com/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css,83,0,0
+1631150168376,84,/-78-21,200,OK,CN-003 | Buyer User 3-1,text,true,,377,728,1,3,http://automationpractice.com/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css,84,0,0
+1631150168381,84,/-78-22,200,OK,CN-003 | Buyer User 3-1,text,true,,6563,726,1,3,http://automationpractice.com/themes/default-bootstrap/css/modules/homeslider/homeslider.css,83,0,0
+1631150168394,83,/-78-23,200,OK,CN-003 | Buyer User 3-1,text,true,,1609,703,1,3,http://automationpractice.com/modules/themeconfigurator/css/hooks.css,83,0,0
+1631150168407,83,/-78-24,200,OK,CN-003 | Buyer User 3-1,text,true,,4670,732,1,3,http://automationpractice.com/themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css,83,0,0
+1631150168413,89,/-78-25,200,OK,CN-003 | Buyer User 3-1,text,true,,7622,736,1,3,http://automationpractice.com/themes/default-bootstrap/css/modules/productcomments/productcomments.css,89,0,0
+1631150168462,86,/-78-26,200,OK,CN-003 | Buyer User 3-1,text,true,,813,699,1,3,http://automationpractice.com/modules/editorial/css/editorial.css,86,0,0
+1631150168483,131,/-78-27,200,OK,CN-003 | Buyer User 3-1,text,true,,280,734,1,3,http://automationpractice.com/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css,131,0,0
+1631150168484,86,/-78-28,200,OK,CN-003 | Buyer User 3-1,text,true,,5708,740,1,3,http://automationpractice.com/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css,86,0,0
+1631150168499,324,/-78-29,200,OK,CN-003 | Buyer User 3-1,text,true,,96637,694,1,3,http://automationpractice.com/js/jquery/jquery-1.11.0.min.js,85,0,0
+1631150168520,95,/-78-30,200,OK,CN-003 | Buyer User 3-1,text,true,,7454,701,1,3,http://automationpractice.com/js/jquery/jquery-migrate-1.2.1.min.js,94,0,0
+1631150168552,84,/-78-31,200,OK,CN-003 | Buyer User 3-1,text,true,,5210,698,1,3,http://automationpractice.com/js/jquery/plugins/jquery.easing.js,84,0,0
+1631150168616,86,/-78-32,200,OK,CN-003 | Buyer User 3-1,text,true,,17020,675,1,3,http://automationpractice.com/js/tools.js,85,0,0
+1631150168616,87,/-78-33,200,OK,CN-003 | Buyer User 3-1,text,true,,14080,701,1,3,http://automationpractice.com/themes/default-bootstrap/js/global.js,86,0,0
+1631150168628,166,/-78-34,200,OK,CN-003 | Buyer User 3-1,text,true,,27887,720,1,3,http://automationpractice.com/themes/default-bootstrap/js/autoload/10-bootstrap.min.js,86,0,0
+1631150168628,86,/-78-35,200,OK,CN-003 | Buyer User 3-1,text,true,,2819,731,1,3,http://automationpractice.com/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js,86,0,0
+1631150168637,86,/-78-36,200,OK,CN-003 | Buyer User 3-1,text,true,,36567,730,1,3,http://automationpractice.com/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js,83,0,0
+1631150168703,169,/-78-37,200,OK,CN-003 | Buyer User 3-1,text,true,,23391,709,1,3,http://automationpractice.com/js/jquery/plugins/fancybox/jquery.fancybox.js,85,0,0
+1631150168704,85,/-78-38,200,OK,CN-003 | Buyer User 3-1,text,true,,4801,714,1,3,http://automationpractice.com/themes/default-bootstrap/js/products-comparison.js,85,0,0
+1631150168715,166,/-78-39,200,OK,CN-003 | Buyer User 3-1,text,true,,31149,722,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js,85,0,0
+1631150168724,85,/-78-40,200,OK,CN-003 | Buyer User 3-1,text,true,,2857,700,1,3,http://automationpractice.com/js/jquery/plugins/jquery.scrollTo.js,85,0,0
+1631150168790,87,/-78-41,200,OK,CN-003 | Buyer User 3-1,text,true,,2268,704,1,3,http://automationpractice.com/js/jquery/plugins/jquery.serialScroll.js,87,0,0
+1631150168795,85,/-78-42,200,OK,CN-003 | Buyer User 3-1,text,true,,19379,709,1,3,http://automationpractice.com/js/jquery/plugins/bxslider/jquery.bxslider.js,83,0,0
+1631150168810,84,/-78-43,200,OK,CN-003 | Buyer User 3-1,text,true,,3216,715,1,3,http://automationpractice.com/themes/default-bootstrap/js/tools/treeManagement.js,84,0,0
+1631150168824,86,/-78-44,200,OK,CN-003 | Buyer User 3-1,text,true,,1575,702,1,3,http://automationpractice.com/modules/blockfacebook/blockfacebook.js,86,0,0
+1631150168873,85,/-78-45,200,OK,CN-003 | Buyer User 3-1,text,true,,1985,734,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js,85,0,0
+1631150168878,167,/-78-46,200,OK,CN-003 | Buyer User 3-1,text,true,,20206,717,1,3,http://automationpractice.com/js/jquery/plugins/autocomplete/jquery.autocomplete.js,84,0,0
+1631150168881,85,/-78-47,200,OK,CN-003 | Buyer User 3-1,text,true,,3985,726,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js,85,0,0
+1631150168882,84,/-78-48,200,OK,CN-003 | Buyer User 3-1,text,true,,2175,727,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js,84,0,0
+1631150168895,86,/-78-49,200,OK,CN-003 | Buyer User 3-1,text,true,,10225,733,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js,85,0,0
+1631150168911,86,/-78-50,200,OK,CN-003 | Buyer User 3-1,text,true,,5193,730,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js,86,0,0
+1631150168959,90,/-78-51,200,OK,CN-003 | Buyer User 3-1,text,true,,7238,737,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js,89,0,0
+1631150168966,86,/-78-52,200,OK,CN-003 | Buyer User 3-1,text,true,,4089,731,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js,85,0,0
+1631150168966,89,/-78-53,200,OK,CN-003 | Buyer User 3-1,text,true,,1366,700,1,3,http://automationpractice.com/themes/default-bootstrap/js/index.js,89,0,0
+1631150168985,149,/-78-54,200,OK,CN-003 | Buyer User 3-1,text,true,,1088,467,1,3,"http://fonts.googleapis.com/css?family=Open+Sans:300,600&subset=latin,latin-ext",148,0,48
+1631150168998,89,/-78-55,200,OK,CN-003 | Buyer User 3-1,bin,true,,13455,698,1,3,http://automationpractice.com/modules/blockbanner/img/sale70.png,88,0,0
+1631150169047,89,/-78-56,200,OK,CN-003 | Buyer User 3-1,bin,true,,11810,676,1,3,http://automationpractice.com/img/logo.jpg,89,0,0
+1631150169050,94,/-78-57,200,OK,CN-003 | Buyer User 3-1,bin,true,,13538,683,1,3,http://automationpractice.com/img/c/3-0_thumb.jpg,93,0,0
+1631150169053,84,/-78-58,200,OK,CN-003 | Buyer User 3-1,bin,true,,10416,683,1,3,http://automationpractice.com/img/c/3-1_thumb.jpg,84,0,0
+1631150169056,253,/-78-59,200,OK,CN-003 | Buyer User 3-1,bin,true,,75738,702,1,3,http://automationpractice.com/modules/homeslider/images/sample-1.jpg,89,0,0
+1631150169088,179,/-78-60,200,OK,CN-003 | Buyer User 3-1,bin,true,,103729,702,1,3,http://automationpractice.com/modules/homeslider/images/sample-2.jpg,89,0,0
+1631150169138,169,/-78-61,200,OK,CN-003 | Buyer User 3-1,bin,true,,59488,702,1,3,http://automationpractice.com/modules/homeslider/images/sample-3.jpg,84,0,0
+1631150169138,170,/-78-62,200,OK,CN-003 | Buyer User 3-1,bin,true,,29497,709,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img6.jpg,88,0,0
+1631150169145,167,/-78-63,200,OK,CN-003 | Buyer User 3-1,bin,true,,26960,709,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img7.jpg,87,0,0
+1631150169146,89,/-78-64,200,OK,CN-003 | Buyer User 3-1,bin,true,,6308,690,1,3,http://automationpractice.com/img/p/1/1-home_default.jpg,88,0,0
+1631150169236,85,/-78-65,200,OK,CN-003 | Buyer User 3-1,bin,true,,7697,690,1,3,http://automationpractice.com/img/p/7/7-home_default.jpg,85,0,0
+1631150169267,85,/-78-66,200,OK,CN-003 | Buyer User 3-1,bin,true,,6871,690,1,3,http://automationpractice.com/img/p/8/8-home_default.jpg,85,0,0
+1631150169310,86,/-78-67,200,OK,CN-003 | Buyer User 3-1,bin,true,,11624,693,1,3,http://automationpractice.com/img/p/1/0/10-home_default.jpg,85,0,0
+1631150169310,85,/-78-68,200,OK,CN-003 | Buyer User 3-1,bin,true,,8621,693,1,3,http://automationpractice.com/img/p/1/2/12-home_default.jpg,85,0,0
+1631150169311,85,/-78-69,200,OK,CN-003 | Buyer User 3-1,bin,true,,8256,693,1,3,http://automationpractice.com/img/p/1/6/16-home_default.jpg,85,0,0
+1631150169313,86,/-78-70,200,OK,CN-003 | Buyer User 3-1,bin,true,,8238,693,1,3,http://automationpractice.com/img/p/2/0/20-home_default.jpg,86,0,0
+1631150169322,88,/-78-71,200,OK,CN-003 | Buyer User 3-1,bin,true,,45637,709,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img1.jpg,85,0,0
+1631150169354,90,/-78-72,200,OK,CN-003 | Buyer User 3-1,bin,true,,31884,709,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img2.jpg,88,0,0
+1631150169398,88,/-78-73,200,OK,CN-003 | Buyer User 3-1,bin,true,,37272,709,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img3.jpg,86,0,0
+1631150169398,92,/-78-74,200,OK,CN-003 | Buyer User 3-1,bin,true,,19024,709,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img4.jpg,90,0,0
+1631150169399,169,/-78-75,200,OK,CN-003 | Buyer User 3-1,bin,true,,35325,709,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img5.jpg,87,0,0
+1631150169492,89,/modules/homeslider/images/sample-3.jpg-162,200,OK,CN-002 | Searcher User 2-1,bin,true,,59488,392,1,3,http://automationpractice.com/modules/homeslider/images/sample-3.jpg,85,0,0
+1631150169496,92,/modules/homeslider/images/sample-1.jpg-161,200,OK,CN-001 | User Navigate 1-1,bin,true,,75738,392,1,3,http://automationpractice.com/modules/homeslider/images/sample-1.jpg,86,0,0
+1631150169582,105,/modules/homeslider/images/sample-1.jpg-161,200,OK,CN-002 | Searcher User 2-1,bin,true,,75738,392,1,3,http://automationpractice.com/modules/homeslider/images/sample-1.jpg,100,0,0
+1631150169588,171,/modules/homeslider/images/sample-2.jpg-163,200,OK,CN-001 | User Navigate 1-1,bin,true,,103693,392,1,3,http://automationpractice.com/modules/homeslider/images/sample-2.jpg,84,0,0
+1631150169688,170,/modules/homeslider/images/sample-2.jpg-163,200,OK,CN-002 | Searcher User 2-1,bin,true,,103729,392,1,3,http://automationpractice.com/modules/homeslider/images/sample-2.jpg,84,0,0
+1631150169859,86,/modules/themeconfigurator/img/banner-img7.jpg-165,200,OK,CN-002 | Searcher User 2-1,bin,true,,26960,399,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img7.jpg,85,0,0
+1631150169759,251,/modules/themeconfigurator/img/banner-img7.jpg-165,200,OK,CN-001 | User Navigate 1-1,bin,true,,26987,399,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img7.jpg,168,0,81
+1631150169946,88,/modules/themeconfigurator/img/banner-img6.jpg-164,200,OK,CN-002 | Searcher User 2-1,bin,true,,29497,399,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img6.jpg,85,0,0
+1631150170035,85,/img/p/1/1-home_default.jpg-166,200,OK,CN-002 | Searcher User 2-1,bin,true,,6308,380,1,3,http://automationpractice.com/img/p/1/1-home_default.jpg,85,0,0
+1631150170010,173,/modules/themeconfigurator/img/banner-img6.jpg-164,200,OK,CN-001 | User Navigate 1-1,bin,true,,29497,399,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img6.jpg,88,0,0
+1631150170120,85,/img/p/7/7-home_default.jpg-167,200,OK,CN-002 | Searcher User 2-1,bin,true,,7697,380,1,3,http://automationpractice.com/img/p/7/7-home_default.jpg,85,0,0
+1631150170184,84,/img/p/1/1-home_default.jpg-166,200,OK,CN-001 | User Navigate 1-1,bin,true,,6308,380,1,3,http://automationpractice.com/img/p/1/1-home_default.jpg,83,0,0
+1631150170205,87,/img/p/8/8-home_default.jpg-168,200,OK,CN-002 | Searcher User 2-1,bin,true,,6871,380,1,3,http://automationpractice.com/img/p/8/8-home_default.jpg,86,0,0
+1631150170268,87,/img/p/7/7-home_default.jpg-167,200,OK,CN-001 | User Navigate 1-1,bin,true,,7697,380,1,3,http://automationpractice.com/img/p/7/7-home_default.jpg,85,0,0
+1631150170292,88,/img/p/2/0/20-home_default.jpg-169,200,OK,CN-002 | Searcher User 2-1,bin,true,,8238,383,1,3,http://automationpractice.com/img/p/2/0/20-home_default.jpg,88,0,0
+1631150170355,87,/img/p/8/8-home_default.jpg-168,200,OK,CN-001 | User Navigate 1-1,bin,true,,6871,380,1,3,http://automationpractice.com/img/p/8/8-home_default.jpg,87,0,0
+1631150170381,99,/img/p/1/0/10-home_default.jpg-171,200,OK,CN-002 | Searcher User 2-1,bin,true,,11624,383,1,3,http://automationpractice.com/img/p/1/0/10-home_default.jpg,87,0,0
+1631150170442,87,/img/p/2/0/20-home_default.jpg-169,200,OK,CN-001 | User Navigate 1-1,bin,true,,8238,383,1,3,http://automationpractice.com/img/p/2/0/20-home_default.jpg,87,0,0
+1631150170481,87,/img/p/1/2/12-home_default.jpg-176,200,OK,CN-002 | Searcher User 2-1,bin,true,,8621,383,1,3,http://automationpractice.com/img/p/1/2/12-home_default.jpg,86,0,0
+1631150170530,85,/img/p/1/0/10-home_default.jpg-171,200,OK,CN-001 | User Navigate 1-1,bin,true,,11624,383,1,3,http://automationpractice.com/img/p/1/0/10-home_default.jpg,84,0,0
+1631150170569,86,/img/p/1/6/16-home_default.jpg-177,200,OK,CN-002 | Searcher User 2-1,bin,true,,8256,383,1,3,http://automationpractice.com/img/p/1/6/16-home_default.jpg,86,0,0
+1631150170616,95,/img/p/1/2/12-home_default.jpg-176,200,OK,CN-001 | User Navigate 1-1,bin,true,,8621,383,1,3,http://automationpractice.com/img/p/1/2/12-home_default.jpg,94,0,0
+1631150170656,87,/modules/themeconfigurator/img/banner-img4.jpg-174,200,OK,CN-002 | Searcher User 2-1,bin,true,,19024,399,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img4.jpg,86,0,0
+1631150170711,86,/img/p/1/6/16-home_default.jpg-177,200,OK,CN-001 | User Navigate 1-1,bin,true,,8256,383,1,3,http://automationpractice.com/img/p/1/6/16-home_default.jpg,86,0,0
+1631150170743,85,/modules/themeconfigurator/img/banner-img5.jpg-175,200,OK,CN-002 | Searcher User 2-1,bin,true,,35325,399,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img5.jpg,82,0,0
+1631150170798,87,/modules/themeconfigurator/img/banner-img4.jpg-174,200,OK,CN-001 | User Navigate 1-1,bin,true,,19024,399,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img4.jpg,86,0,0
+1631150169580,1325,acess my acount,200,OK,CN-003 | Buyer User 3-1,text,true,,71520,5640,1,3,http://automationpractice.com/index.php?controller=authentication&back=my-account,343,0,0
+1631150169580,343,acess my acount-0,302,Moved Temporarily,CN-003 | Buyer User 3-1,text,true,,308,695,1,3,http://automationpractice.com/index.php?controller=my-account,343,0,0
+1631150169924,771,acess my acount-1,200,OK,CN-003 | Buyer User 3-1,text,true,,35165,715,1,3,http://automationpractice.com/index.php?controller=authentication&back=my-account,605,0,0
+1631150170733,85,acess my acount-2,200,OK,CN-003 | Buyer User 3-1,text,true,,1096,711,1,3,http://automationpractice.com/themes/default-bootstrap/css/authentication.css,85,0,0
+1631150170737,85,acess my acount-3,200,OK,CN-003 | Buyer User 3-1,text,true,,2553,701,1,3,http://automationpractice.com/js/jquery/plugins/jquery.typewatch.js,85,0,0
+1631150170738,141,acess my acount-4,200,OK,CN-003 | Buyer User 3-1,text,true,,2283,714,1,3,http://automationpractice.com/themes/default-bootstrap/js/tools/vatManagement.js,141,0,0
+1631150170738,83,acess my acount-5,200,OK,CN-003 | Buyer User 3-1,text,true,,5628,717,1,3,http://automationpractice.com/themes/default-bootstrap/js/tools/statesManagement.js,83,0,0
+1631150170738,83,acess my acount-6,200,OK,CN-003 | Buyer User 3-1,text,true,,3064,709,1,3,http://automationpractice.com/themes/default-bootstrap/js/authentication.js,83,0,0
+1631150170738,167,acess my acount-7,200,OK,CN-003 | Buyer User 3-1,text,true,,21423,678,1,3,http://automationpractice.com/js/validate.js,85,0,0
+1631150170829,85,/modules/themeconfigurator/img/banner-img2.jpg-172,200,OK,CN-002 | Searcher User 2-1,bin,true,,31884,399,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img2.jpg,82,0,0
+1631150170914,87,/modules/themeconfigurator/img/banner-img1.jpg-170,200,OK,CN-002 | Searcher User 2-1,bin,true,,45637,399,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img1.jpg,83,0,0
+1631150170916,85,/themes/default-bootstrap/img/icon/form-ok.png-91,200,OK,CN-003 | Buyer User 3-1,bin,true,,424,649,1,3,http://automationpractice.com/themes/default-bootstrap/img/icon/form-ok.png,85,0,0
+1631150170885,167,/modules/themeconfigurator/img/banner-img5.jpg-175,200,OK,CN-001 | User Navigate 1-1,bin,true,,35325,399,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img5.jpg,83,0,0
+1631150171001,87,/modules/themeconfigurator/img/banner-img3.jpg-173,200,OK,CN-002 | Searcher User 2-1,bin,true,,37272,399,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img3.jpg,85,0,0
+1631150171053,87,/modules/themeconfigurator/img/banner-img2.jpg-172,200,OK,CN-001 | User Navigate 1-1,bin,true,,31884,399,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img2.jpg,85,0,0
+1631150171089,85,/img/favicon.ico-178,200,OK,CN-002 | Searcher User 2-1,bin,true,,3248,380,1,3,http://automationpractice.com/img/favicon.ico?1461205423,85,0,0
+1631150171141,167,/modules/themeconfigurator/img/banner-img1.jpg-170,200,OK,CN-001 | User Navigate 1-1,bin,true,,45637,399,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img1.jpg,85,0,0
+1631150171309,89,/modules/themeconfigurator/img/banner-img3.jpg-173,200,OK,CN-001 | User Navigate 1-1,bin,true,,37272,399,1,3,http://automationpractice.com/modules/themeconfigurator/img/banner-img3.jpg,87,0,0
+1631150171399,83,/img/favicon.ico-178,200,OK,CN-001 | User Navigate 1-1,bin,true,,3248,380,1,3,http://automationpractice.com/img/favicon.ico?1461205423,83,0,0
+1631150171175,1020,/index.php-10,200,OK,CN-002 | Searcher User 2-1,text,true,,724,485,1,3,http://automationpractice.com/index.php?controller=search&q=shirt&limit=10&timestamp=1631128468229&ajaxSearch=1&id_lang=1,980,0,0
+1631150171002,1814,send user form autentication,200,OK,CN-003 | Buyer User 3-1,text,true,,28998,2008,1,3,http://automationpractice.com/index.php?controller=my-account,575,0,0
+1631150171002,575,send user form autentication-0,302,Moved Temporarily,CN-003 | Buyer User 3-1,text,true,,1494,919,1,3,http://automationpractice.com/index.php?controller=authentication,575,0,0
+1631150171579,1237,send user form autentication-1,200,OK,CN-003 | Buyer User 3-1,text,true,,27504,1089,1,3,http://automationpractice.com/index.php?controller=my-account,1153,0,0
+1631150172818,87,/themes/default-bootstrap/css/my-account.css-94,200,OK,CN-003 | Buyer User 3-1,text,true,,2381,907,1,3,http://automationpractice.com/themes/default-bootstrap/css/my-account.css,86,0,0
+1631150171483,1483,/index.php-183,200,OK,CN-001 | User Navigate 1-1,text,true,,56709,461,1,3,http://automationpractice.com/index.php?id_category=5&controller=category,1315,0,0
+1631150172967,85,/themes/default-bootstrap/js/category.js-184,200,OK,CN-001 | User Navigate 1-1,text,true,,1440,390,1,3,http://automationpractice.com/themes/default-bootstrap/js/category.js,85,0,0
+1631150173053,150,/themes/default-bootstrap/js/modules/blocklayered/blocklayered.js-185,200,OK,CN-001 | User Navigate 1-1,text,true,,20978,415,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/blocklayered/blocklayered.js,149,0,0
+1631150172196,1146,/index.php-11,200,OK,CN-002 | Searcher User 2-1,text,true,,51127,510,1,3,http://automationpractice.com/index.php?controller=search&orderby=position&orderway=desc&search_query=shirt&submit_search=,895,0,0
+1631150173343,84,/img/p/7/7-small_default.jpg-13,200,OK,CN-002 | Searcher User 2-1,bin,true,,2484,438,1,3,http://automationpractice.com/img/p/7/7-small_default.jpg,84,0,0
+1631150173427,88,/img/p/1/1-small_default.jpg-12,200,OK,CN-002 | Searcher User 2-1,bin,true,,1937,438,1,3,http://automationpractice.com/img/p/1/1-small_default.jpg,88,0,0
+1631150173516,86,/img/p/8/8-small_default.jpg-14,200,OK,CN-002 | Searcher User 2-1,bin,true,,2149,438,1,3,http://automationpractice.com/img/p/8/8-small_default.jpg,86,0,0
+1631150173603,97,/img/p/1/0/10-small_default.jpg-16,200,OK,CN-002 | Searcher User 2-1,bin,true,,2930,441,1,3,http://automationpractice.com/img/p/1/0/10-small_default.jpg,97,0,0
+1631150173701,89,/img/p/1/6/16-small_default.jpg-15,200,OK,CN-002 | Searcher User 2-1,bin,true,,2260,441,1,3,http://automationpractice.com/img/p/1/6/16-small_default.jpg,89,0,0
+1631150173204,1666,/index.php-186,200,OK,CN-001 | User Navigate 1-1,text,true,,90206,495,1,3,http://automationpractice.com/index.php?id_category=8&controller=category,1415,0,0
+1631150172907,2088,/-78,200,OK,CN-003 | Buyer User 3-1,text,true,,82688,1865,1,3,http://automationpractice.com/index.php,420,0,0
+1631150172907,420,/-78-0,302,Moved,CN-003 | Buyer User 3-1,text,true,,279,928,1,3,http://automationpractice.com/,420,0,0
+1631150173327,1668,/-78-1,200,OK,CN-003 | Buyer User 3-1,text,true,,82409,937,1,3,http://automationpractice.com/index.php,1417,0,0
+1631150173792,1714,/index.php-17,200,OK,CN-002 | Searcher User 2-1,text,true,,54072,571,1,3,http://automationpractice.com/index.php?id_product=1&controller=product&search_query=shirt&results=1,1464,0,0
+1631150175507,88,/img/p/2/2-large_default.jpg-18,200,OK,CN-002 | Searcher User 2-1,bin,true,,20320,416,1,3,http://automationpractice.com/img/p/2/2-large_default.jpg,87,0,0
+1631150174871,1163,/index.php-187,200,OK,CN-001 | User Navigate 1-1,text,true,,55618,495,1,3,http://automationpractice.com/index.php?id_category=9&controller=category,995,0,0
+1631150176035,171,/img/c/9-category_default.jpg-188,200,OK,CN-001 | User Navigate 1-1,bin,true,,47327,390,1,3,http://automationpractice.com/img/c/9-category_default.jpg,87,0,0
+1631150175596,774,/index.php-25,200,OK,CN-002 | Searcher User 2-1,text,true,,2120,483,1,3,http://automationpractice.com/index.php?controller=search&q=dre&limit=10&timestamp=1631128705943&ajaxSearch=1&id_lang=1,751,0,0
+1631150175043,1837,/index.php-102 (choose product),200,OK,CN-003 | Buyer User 3-1,text,true,,188074,19299,1,3,http://automationpractice.com/index.php?id_product=1&controller=product,1122,0,0
+1631150175043,1289,/index.php-102 (choose product)-0,200,OK,CN-003 | Buyer User 3-1,text,true,,55057,969,1,3,http://automationpractice.com/index.php?id_product=1&controller=product,1122,0,0
+1631150176360,343,/index.php-102 (choose product)-1,200,OK,CN-003 | Buyer User 3-1,text,true,,34746,1018,1,3,http://automationpractice.com/themes/default-bootstrap/css/product.css,175,0,85
+1631150176360,92,/index.php-102 (choose product)-2,200,OK,CN-003 | Buyer User 3-1,text,true,,1976,1016,1,3,http://automationpractice.com/themes/default-bootstrap/css/print.css,92,0,0
+1631150176360,176,/index.php-102 (choose product)-3,200,OK,CN-003 | Buyer User 3-1,text,true,,320,1021,1,3,http://automationpractice.com/modules/socialsharing/css/socialsharing.css,175,0,85
+1631150176364,174,/index.php-102 (choose product)-4,200,OK,CN-003 | Buyer User 3-1,text,true,,1503,1017,1,3,http://automationpractice.com/modules/sendtoafriend/sendtoafriend.css,174,0,81
+1631150176367,171,/index.php-102 (choose product)-5,200,OK,CN-003 | Buyer User 3-1,text,true,,2431,1012,1,3,http://automationpractice.com/js/jquery/plugins/jquery.idTabs.js,171,0,80
+1631150176368,253,/index.php-102 (choose product)-6,200,OK,CN-003 | Buyer User 3-1,text,true,,35237,1016,1,3,http://automationpractice.com/themes/default-bootstrap/js/product.js,168,0,80
+1631150176459,86,/index.php-102 (choose product)-7,200,OK,CN-003 | Buyer User 3-1,text,true,,2135,1019,1,3,http://automationpractice.com/modules/socialsharing/js/socialsharing.js,86,0,0
+1631150176541,86,/index.php-102 (choose product)-8,200,OK,CN-003 | Buyer User 3-1,text,true,,2400,1026,1,3,http://automationpractice.com/modules/productcomments/js/jquery.rating.pack.js,86,0,0
+1631150176541,86,/index.php-102 (choose product)-9,200,OK,CN-003 | Buyer User 3-1,text,true,,2195,1044,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/sendtoafriend/sendtoafriend.js,86,0,0
+1631150176546,86,/index.php-102 (choose product)-10,200,OK,CN-003 | Buyer User 3-1,text,true,,5240,1037,1,3,http://automationpractice.com/modules/productcomments/js/jquery.textareaCounter.plugin.js,85,0,0
+1631150176546,86,/index.php-102 (choose product)-11,200,OK,CN-003 | Buyer User 3-1,text,true,,4255,1051,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/productcomments/js/productcomments.js,85,0,0
+1631150176625,250,/index.php-102 (choose product)-12,200,OK,CN-003 | Buyer User 3-1,bin,true,,15926,1005,1,3,http://automationpractice.com/img/p/1/1-large_default.jpg,166,0,81
+1631150176628,85,/index.php-102 (choose product)-13,200,OK,CN-003 | Buyer User 3-1,bin,true,,1543,1004,1,3,http://automationpractice.com/img/p/1/1-cart_default.jpg,85,0,0
+1631150176628,85,/index.php-102 (choose product)-14,200,OK,CN-003 | Buyer User 3-1,bin,true,,1837,1004,1,3,http://automationpractice.com/img/p/2/2-cart_default.jpg,85,0,0
+1631150176632,86,/index.php-102 (choose product)-15,200,OK,CN-003 | Buyer User 3-1,bin,true,,1579,1004,1,3,http://automationpractice.com/img/p/3/3-cart_default.jpg,85,0,0
+1631150176632,86,/index.php-102 (choose product)-16,200,OK,CN-003 | Buyer User 3-1,bin,true,,1655,1004,1,3,http://automationpractice.com/img/p/4/4-cart_default.jpg,86,0,0
+1631150176714,166,/index.php-102 (choose product)-17,200,OK,CN-003 | Buyer User 3-1,bin,true,,15508,1026,1,3,http://automationpractice.com/modules/productpaymentlogos/img/payment-logo.png,86,0,0
+1631150176714,86,/index.php-102 (choose product)-18,200,OK,CN-003 | Buyer User 3-1,bin,true,,2531,1006,1,3,http://automationpractice.com/img/p/1/1-medium_default.jpg,86,0,0
+1631150176889,92,/themes/default-bootstrap/img/jquery/uniform/sprite.png-121,200,OK,CN-003 | Buyer User 3-1,bin,true,,4057,990,1,3,http://automationpractice.com/themes/default-bootstrap/img/jquery/uniform/sprite.png,92,0,0
+1631150176371,1134,/index.php-26,200,OK,CN-002 | Searcher User 2-1,text,true,,2120,485,1,3,http://automationpractice.com/index.php?controller=search&q=dress&limit=10&timestamp=1631128706810&ajaxSearch=1&id_lang=1,1092,0,0
+1631150176207,1335,/index.php-189,200,OK,CN-001 | User Navigate 1-1,text,true,,72482,496,1,3,http://automationpractice.com/index.php?id_category=11&controller=category,1087,0,0
+1631150177543,171,/img/c/11-category_default.jpg-190,200,OK,CN-001 | User Navigate 1-1,bin,true,,71688,392,1,3,http://automationpractice.com/img/c/11-category_default.jpg,86,0,0
+1631150176982,1560,/index.php?rand=1631139078717-122 (add product to cart),200,OK,CN-003 | Buyer User 3-1,text,true,,1010,1258,1,3,http://automationpractice.com/index.php?rand=1631139078717,1499,0,0
+1631150177506,1802,/index.php-27,200,OK,CN-002 | Searcher User 2-1,text,true,,79801,510,1,3,http://automationpractice.com/index.php?controller=search&orderby=position&orderway=desc&search_query=dress&submit_search=,1465,0,0
+1631150177716,1715,/index.php-237,200,OK,CN-001 | User Navigate 1-1,text,true,,53773,493,1,3,http://automationpractice.com/index.php?id_product=1&controller=product,1469,0,0
+1631150179431,87,/modules/socialsharing/css/socialsharing.css-239,200,OK,CN-001 | User Navigate 1-1,text,true,,293,407,1,3,http://automationpractice.com/modules/socialsharing/css/socialsharing.css,87,0,0
+1631150179518,83,/modules/sendtoafriend/sendtoafriend.css-240,200,OK,CN-001 | User Navigate 1-1,text,true,,1476,403,1,3,http://automationpractice.com/modules/sendtoafriend/sendtoafriend.css,83,0,0
+1631150179603,112,/js/jquery/plugins/jquery.idTabs.js-241,200,OK,CN-001 | User Navigate 1-1,text,true,,2404,383,1,3,http://automationpractice.com/js/jquery/plugins/jquery.idTabs.js,112,0,0
+1631150179716,87,/modules/socialsharing/js/socialsharing.js-243,200,OK,CN-001 | User Navigate 1-1,text,true,,2135,390,1,3,http://automationpractice.com/modules/socialsharing/js/socialsharing.js,86,0,0
+1631150179802,85,/themes/default-bootstrap/js/modules/sendtoafriend/sendtoafriend.js-245,200,OK,CN-001 | User Navigate 1-1,text,true,,2195,415,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/sendtoafriend/sendtoafriend.js,85,0,0
+1631150178544,1391,proceed to purchase -> /index.php-123,200,"Embedded resource download error:http://automationpractice.com/img/p/1/1-small_default.jpg code:Non HTTP response code: org.apache.http.NoHttpResponseException message:Non HTTP response message: automationpractice.com:80 failed to respond, ",CN-003 | Buyer User 3-1,text,false,,78550,3141,1,3,http://automationpractice.com/index.php?controller=order,954,0,0
+1631150178544,1120,proceed to purchase -> /index.php-123-0,200,OK,CN-003 | Buyer User 3-1,text,true,,39454,1036,1,3,http://automationpractice.com/index.php?controller=order,954,0,0
+1631150179678,90,proceed to purchase -> /index.php-123-1,200,OK,CN-003 | Buyer User 3-1,text,true,,672,1052,1,3,http://automationpractice.com/themes/default-bootstrap/css/addresses.css,90,0,0
+1631150179682,253,proceed to purchase -> /index.php-123-2,200,OK,CN-003 | Buyer User 3-1,text,true,,36225,1053,1,3,http://automationpractice.com/themes/default-bootstrap/js/cart-summary.js,86,0,0
+1631150179684,36,proceed to purchase -> /index.php-123-3,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: automationpractice.com:80 failed to respond,CN-003 | Buyer User 3-1,text,false,,2199,0,1,3,http://automationpractice.com/img/p/1/1-small_default.jpg,0,0,0
+1631150179888,85,/modules/productcomments/js/jquery.rating.pack.js-244,200,OK,CN-001 | User Navigate 1-1,text,true,,2400,397,1,3,http://automationpractice.com/modules/productcomments/js/jquery.rating.pack.js,85,0,0
+1631150179936,90,/img/p/1/1-small_default.jpg-126,200,OK,CN-003 | Buyer User 3-1,bin,true,,1937,932,1,3,http://automationpractice.com/img/p/1/1-small_default.jpg,90,0,0
+1631150179973,86,/modules/productcomments/js/jquery.textareaCounter.plugin.js-246,200,OK,CN-001 | User Navigate 1-1,text,true,,5240,408,1,3,http://automationpractice.com/modules/productcomments/js/jquery.textareaCounter.plugin.js,86,0,0
+1631150180059,87,/themes/default-bootstrap/js/modules/productcomments/js/productcomments.js-247,200,OK,CN-001 | User Navigate 1-1,text,true,,4255,422,1,3,http://automationpractice.com/themes/default-bootstrap/js/modules/productcomments/js/productcomments.js,87,0,0
+1631150179309,855,/index.php-28,200,OK,CN-002 | Searcher User 2-1,text,true,,50090,571,1,3,http://automationpractice.com/index.php?id_product=3&controller=product&search_query=dress&results=7,606,0,0
+1631150180146,169,/themes/default-bootstrap/css/product.css-238,200,OK,CN-001 | User Navigate 1-1,text,true,,34719,404,1,3,http://automationpractice.com/themes/default-bootstrap/css/product.css,86,0,0
+1631150180315,169,/themes/default-bootstrap/js/product.js-242,200,OK,CN-001 | User Navigate 1-1,text,true,,35210,387,1,3,http://automationpractice.com/themes/default-bootstrap/js/product.js,87,0,0
+1631150180484,93,/themes/default-bootstrap/css/print.css-248,200,OK,CN-001 | User Navigate 1-1,text,true,,1976,402,1,3,http://automationpractice.com/themes/default-bootstrap/css/print.css,93,0,0
+1631150180578,86,/img/p/1/1-cart_default.jpg-250,200,OK,CN-001 | User Navigate 1-1,bin,true,,1543,386,1,3,http://automationpractice.com/img/p/1/1-cart_default.jpg,85,0,0
+1631150180664,84,/img/p/3/3-cart_default.jpg-252,200,OK,CN-001 | User Navigate 1-1,bin,true,,1579,386,1,3,http://automationpractice.com/img/p/3/3-cart_default.jpg,84,0,0
+1631150180749,86,/img/p/2/2-cart_default.jpg-251,200,OK,CN-001 | User Navigate 1-1,bin,true,,1837,386,1,3,http://automationpractice.com/img/p/2/2-cart_default.jpg,86,0,0
+1631150180836,90,/img/p/1/1-large_default.jpg-249,200,OK,CN-001 | User Navigate 1-1,bin,true,,15899,387,1,3,http://automationpractice.com/img/p/1/1-large_default.jpg,89,0,0
+1631150180927,85,/modules/productpaymentlogos/img/payment-logo.png-253,200,OK,CN-001 | User Navigate 1-1,bin,true,,15508,408,1,3,http://automationpractice.com/modules/productpaymentlogos/img/payment-logo.png,84,0,0
+1631150181012,89,/img/p/1/1-medium_default.jpg-255,200,OK,CN-001 | User Navigate 1-1,bin,true,,2531,388,1,3,http://automationpractice.com/img/p/1/1-medium_default.jpg,89,0,0
+1631150180027,1105,step (address) -> /index.php-127,200,OK,CN-003 | Buyer User 3-1,text,true,,40704,2067,1,3,http://automationpractice.com/index.php?controller=order&step=1,920,0,0
+1631150180027,1001,step (address) -> /index.php-127-0,200,OK,CN-003 | Buyer User 3-1,text,true,,32693,1028,1,3,http://automationpractice.com/index.php?controller=order&step=1,920,0,0
+1631150181044,88,step (address) -> /index.php-127-1,200,OK,CN-003 | Buyer User 3-1,text,true,,8011,1039,1,3,http://automationpractice.com/themes/default-bootstrap/js/order-address.js,88,0,0
+1631150181103,86,/img/p/4/4-cart_default.jpg-254,200,OK,CN-001 | User Navigate 1-1,bin,true,,1655,386,1,3,http://automationpractice.com/img/p/4/4-cart_default.jpg,86,0,0
+1631150180163,1360,/index.php-29,200,OK,CN-002 | Searcher User 2-1,text,true,,54397,571,1,3,http://automationpractice.com/index.php?id_product=1&controller=product&search_query=dress&results=7,1109,0,0
+1631150181136,1590,step (confirm address) -> /index.php?controller=order-129,200,OK,CN-003 | Buyer User 3-1,text,true,,36053,3443,1,3,http://automationpractice.com/index.php?controller=order,1399,0,0
+1631150181136,1484,step (confirm address) -> /index.php?controller=order-129-0,200,OK,CN-003 | Buyer User 3-1,text,true,,32164,1208,1,3,http://automationpractice.com/index.php?controller=order,1399,0,0
+1631150182639,87,step (confirm address) -> /index.php?controller=order-129-1,200,OK,CN-003 | Buyer User 3-1,text,true,,2457,1134,1,3,http://automationpractice.com/themes/default-bootstrap/js/order-carrier.js,87,0,0
+1631150182641,85,step (confirm address) -> /index.php?controller=order-129-2,200,OK,CN-003 | Buyer User 3-1,bin,true,,1432,1101,1,3,http://automationpractice.com/img/s/2.jpg,85,0,0
+1631150181190,1706,/index.php-256,200,OK,CN-001 | User Navigate 1-1,text,true,,52304,493,1,3,http://automationpractice.com/index.php?id_product=2&controller=product,1463,0,0
+1631150182896,93,/img/p/6/6-cart_default.jpg-258,200,OK,CN-001 | User Navigate 1-1,bin,true,,1523,386,1,3,http://automationpractice.com/img/p/6/6-cart_default.jpg,93,0,0
+1631150182990,85,/img/p/5/5-cart_default.jpg-259,200,OK,CN-001 | User Navigate 1-1,bin,true,,1774,386,1,3,http://automationpractice.com/img/p/5/5-cart_default.jpg,85,0,0
+1631150181524,1566,/index.php-30,200,OK,CN-002 | Searcher User 2-1,text,true,,52918,571,1,3,http://automationpractice.com/index.php?id_product=2&controller=product&search_query=dress&results=7,1319,0,0
+1631150183076,85,/img/p/7/7-medium_default.jpg-261,200,OK,CN-001 | User Navigate 1-1,bin,true,,3250,388,1,2,http://automationpractice.com/img/p/7/7-medium_default.jpg,85,0,0
+1631150183162,85,/img/p/7/7-cart_default.jpg-260,200,OK,CN-001 | User Navigate 1-1,bin,true,,1939,386,1,2,http://automationpractice.com/img/p/7/7-cart_default.jpg,84,0,0
+1631150183247,83,/img/p/7/7-large_default.jpg-257,200,OK,CN-001 | User Navigate 1-1,bin,true,,17825,387,1,2,http://automationpractice.com/img/p/7/7-large_default.jpg,82,0,0
+1631150182731,737,step (accept terms of use) -> /v1/tiles-132,200,OK,CN-003 | Buyer User 3-1,text,true,,1066,358,1,2,https://contile.services.mozilla.com/v1/tiles,737,0,513
+1631150183330,3229,/index.php-262,200,OK,CN-001 | User Navigate 1-1,text,true,,49436,493,1,2,http://automationpractice.com/index.php?id_product=3&controller=product,2980,0,0
+1631150183470,3092,/index.php?controller=order&multi-shipping=-133,200,OK,CN-003 | Buyer User 3-1,text,true,,34395,1213,1,2,http://automationpractice.com/index.php?controller=order&multi-shipping=,3008,0,0
+1631150186560,85,/img/p/9/9-cart_default.jpg-265,200,OK,CN-001 | User Navigate 1-1,bin,true,,1700,386,1,2,http://automationpractice.com/img/p/9/9-cart_default.jpg,85,0,0
+1631150186563,86,/themes/default-bootstrap/img/bankwire.png-134,200,OK,CN-003 | Buyer User 3-1,bin,true,,1088,973,1,2,http://automationpractice.com/themes/default-bootstrap/img/bankwire.png,86,0,0
+1631150186646,85,/img/p/8/8-medium_default.jpg-266,200,OK,CN-001 | User Navigate 1-1,bin,true,,2829,388,1,2,http://automationpractice.com/img/p/8/8-medium_default.jpg,85,0,0
+1631150186650,85,/themes/default-bootstrap/img/cheque.png-135,200,OK,CN-003 | Buyer User 3-1,bin,true,,1016,971,1,2,http://automationpractice.com/themes/default-bootstrap/img/cheque.png,85,0,0
+1631150186731,88,/img/p/8/8-cart_default.jpg-264,200,OK,CN-001 | User Navigate 1-1,bin,true,,1682,386,1,2,http://automationpractice.com/img/p/8/8-cart_default.jpg,88,0,0
+1631150186820,86,/img/p/8/8-large_default.jpg-263,200,OK,CN-001 | User Navigate 1-1,bin,true,,16897,387,1,2,http://automationpractice.com/img/p/8/8-large_default.jpg,85,0,0
+1631150186736,601,step (payment method) -> /index.php-136,200,OK,CN-003 | Buyer User 3-1,text,true,,30295,1079,1,1,http://automationpractice.com/index.php?fc=module&module=bankwire&controller=payment,518,0,0
+1631150186736,601,step (payment method) -> /index.php-136-0,200,OK,CN-003 | Buyer User 3-1,text,true,,30295,1079,1,1,http://automationpractice.com/index.php?fc=module&module=bankwire&controller=payment,518,0,0
+1631150187356,1650,Checkout -> /index.php?fc=module&module=bankwire&controller=validation-137,200,OK,CN-003 | Buyer User 3-1,text,true,,28766,2467,1,1,http://automationpractice.com/index.php?controller=order-confirmation&id_cart=3673259&id_module=3&id_order=356432&key=f1e92afed25ee139f058ec24e77301eb,919,0,0
+1631150187356,919,Checkout -> /index.php?fc=module&module=bankwire&controller=validation-137-0,302,Moved Temporarily,CN-003 | Buyer User 3-1,text,true,,377,1222,1,1,http://automationpractice.com/index.php?fc=module&module=bankwire&controller=validation,919,0,0
+1631150188277,729,Checkout -> /index.php?fc=module&module=bankwire&controller=validation-137-1,200,OK,CN-003 | Buyer User 3-1,text,true,,28389,1245,1,1,http://automationpractice.com/index.php?controller=order-confirmation&id_cart=3673259&id_module=3&id_order=356432&key=f1e92afed25ee139f058ec24e77301eb,645,0,0
+1631150189035,865,open the order -> /index.php-259,200,OK,CN-003 | Buyer User 3-1,text,true,,7960,985,1,1,http://automationpractice.com/index.php?controller=order-detail&id_order=356432&ajax=true,845,0,0
+1631150189935,1,Debug Sampler,200,OK,CN-003 | Buyer User 3-1,text,true,,604,0,1,1,null,0,0,0
