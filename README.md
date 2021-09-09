@@ -128,7 +128,13 @@ sh ~/jmeter/bin/jmeter.sh -n -t e-commerce-project.jmx -l resultLogEcommerce.jtl
 
 ##
 
+<div align="center">
+  
+<a href="https://developers.google.com/speed/pagespeed/insights/"><img height="32" src="https://www.gstatic.com/images/icons/material/product/2x/pagespeed_64dp.png"></a>
+  
 ## Lighthouse Performance
+  
+</div>
 
 ![Screen Shot 2021-09-09 at 13 45 28](https://user-images.githubusercontent.com/990877/132731456-11b5a376-4e65-42bb-9fb2-ec0c887c656e.png)
 ![Screen Shot 2021-09-09 at 13 52 22](https://user-images.githubusercontent.com/990877/132731478-c91a7514-e8ea-4d8f-97d8-f547516be76a.png)
