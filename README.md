@@ -15,12 +15,13 @@ Objetivo 🎯  &nbsp;&nbsp;Simulação de carga gradativa buscando alcançar o m
   <a href="#Tecnologias">Top Plugins</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Plano-de-teste">Plano de teste</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Relatórios">Relatórios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Relatórios">Fluxo da navegação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#License">License</a>
 </p>
 
 <p align="center">
   <a href="https://mit-license.org/">
-  <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
+  <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">.
   </a>
 </p>
 
@@ -85,7 +86,7 @@ Objetivo 🎯  &nbsp;&nbsp;Simulação de carga gradativa buscando alcançar o m
 
 ##
 
-## Fluxo
+## Fluxo da navegação
 
 <a href="https://user-images.githubusercontent.com/990877/132601806-c4b48c5a-53f9-45fa-95be-b4e5fcc23f5e.png"><img src="https://img.shields.io/badge/step-01-9cf"></a>&nbsp;
 <a href="https://user-images.githubusercontent.com/990877/132601915-7fb3dfe8-8a77-444c-ba44-14c873ae4ec2.png"><img src="https://img.shields.io/badge/step-02-9cf"></a>&nbsp;
