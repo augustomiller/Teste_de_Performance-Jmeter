@@ -15,6 +15,7 @@ Objetivo 🎯  &nbsp;&nbsp;Simulação de carga gradativa buscando alcançar o m
   <a href="#Tecnologias">Top Plugins</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Plano-de-teste">Plano de teste</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Relatórios">Relatórios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Lighthouse-Performance">Lighthouse Performance</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Fluxo-da-navegação">Fluxo da navegação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#License">License</a>
 </p>
@@ -126,6 +127,17 @@ sh ~/jmeter/bin/jmeter.sh -n -t e-commerce-project.jmx -l resultLogEcommerce.jtl
 ![Screen Shot 2021-09-08 at 22 20 09](https://user-images.githubusercontent.com/990877/132606850-72bc0a6f-a547-40ab-937f-024a5e024678.png)
 
 ##
+
+## Lighthouse Performance
+
+![Screen Shot 2021-09-09 at 13 45 28](https://user-images.githubusercontent.com/990877/132731456-11b5a376-4e65-42bb-9fb2-ec0c887c656e.png)
+![Screen Shot 2021-09-09 at 13 52 22](https://user-images.githubusercontent.com/990877/132731478-c91a7514-e8ea-4d8f-97d8-f547516be76a.png)
+![Screen Shot 2021-09-09 at 14 03 36](https://user-images.githubusercontent.com/990877/132731496-e5d27f4d-5d43-4e9e-a714-3ba7e7c7ad6a.png)
+![Screen Shot 2021-09-09 at 14 04 31](https://user-images.githubusercontent.com/990877/132731519-12a2e625-0e0c-4e09-8210-22d38669651a.png)
+![Screen Shot 2021-09-09 at 14 05 22](https://user-images.githubusercontent.com/990877/132731535-f4f56475-8146-41b7-bdce-6fb21febafa3.png)
+![Screen Shot 2021-09-09 at 14 05 43](https://user-images.githubusercontent.com/990877/132731552-e1c287bf-b51b-4fc6-bb67-e756b49ce875.png)
+
+
 
 ## License
 
